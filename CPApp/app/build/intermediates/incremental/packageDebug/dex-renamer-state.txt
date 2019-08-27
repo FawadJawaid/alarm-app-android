@@ -1,0 +1,7 @@
+#Wed Dec 07 16:32:18 PKT 2016
+base.0=C\:\\Users\\New User.Admin-PC\\Documents\\Downloads\\AndroidAlarmClock\\CPApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_efdc1ffe8b1925d014b2640c684ff4da91ed8317
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\New User.Admin-PC\\Documents\\Downloads\\AndroidAlarmClock\\CPApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cf9c639a050310c549e831766ea45785c0ab2a5a\\classes.dex
+base.1=C\:\\Users\\New User.Admin-PC\\Documents\\Downloads\\AndroidAlarmClock\\CPApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cf9c639a050310c549e831766ea45785c0ab2a5a
+file.0=C\:\\Users\\New User.Admin-PC\\Documents\\Downloads\\AndroidAlarmClock\\CPApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_efdc1ffe8b1925d014b2640c684ff4da91ed8317\\classes.dex

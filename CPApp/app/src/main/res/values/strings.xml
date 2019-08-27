@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alarm Clock</string>
+    <string name="btn_start"> Set Alarm Time </string>
+    <string name="btn_stop"> Cancel Alarm </string>
+</resources>
